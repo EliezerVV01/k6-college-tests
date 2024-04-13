@@ -1,1 +1,1 @@
-#Pruebas de integración con K6
+Pruebas de integración con K6
